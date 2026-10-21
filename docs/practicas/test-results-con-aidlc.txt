@@ -1,0 +1,13 @@
+
+> aidlc-practica@1.0.0 test
+> jest
+
+PASS tests/tasks.test.js
+PASS tests/app.test.js
+PASS tests/validation.test.js
+
+Test Suites: 3 passed, 3 total
+Tests:       53 passed, 53 total
+Snapshots:   0 total
+Time:        0.995 s, estimated 1 s
+Ran all test suites.
